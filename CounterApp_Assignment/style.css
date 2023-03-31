@@ -1,0 +1,60 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body {
+ 
+   height: 100vh;
+   display: flex;
+   justify-content:center ;
+   align-items: center;
+   
+   
+}
+div {
+    
+    padding: 50px;
+ 
+    border-radius: 10px;
+    box-shadow:0px 0px 5px black;
+
+  
+}
+.app{
+    padding-left: 125px;
+   
+  
+}
+
+h1 {
+margin-left: 30px;
+ padding-bottom: 10px;
+ font-size: 50px;
+ font-weight: 700;
+}
+button {
+  
+    font-size: 15px;
+    font-weight: 600;
+    padding: 10px;
+    border-radius: 10px;
+}
+span {
+    height: 150px;
+    width: 150px;
+    border: 2px solid black;
+    padding: 10px;
+
+}
+
+#reset {
+    margin-top: 10;
+    position: relative;
+    right: 13rem;
+    top: 3rem;
+    
+    
+
+    
+}
