@@ -1,0 +1,11 @@
+
+h1 {
+    color: rgb(194, 16, 149);
+    font-size: 20px;
+    font-weight: 500;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+} 
+input {
+    padding: 15px;
+    border-radius: 5px;
+}

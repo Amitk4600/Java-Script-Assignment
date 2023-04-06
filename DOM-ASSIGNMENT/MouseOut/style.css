@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(18, 197, 197);
+    display: flex;
+    flex-direction: column;
+justify-content: center;
+align-items: center;
+height: 100vh;
+
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: 900;
+
+
+}
+span {
+    width: 50px;
+    height:60px;
+    border: 2px solid red;
+    padding: 15px;
+    border-radius: 5px;
+    
+}
+#num {
+    font-size: 50px;
+}
+
+button {
+    margin-top: 15px;
+    height: 50px;
+    width: 100px;
+    padding: 5px;
+    border-radius: 5px;
+    font-size: 30px;
+    font-weight: 900;
+
+}
